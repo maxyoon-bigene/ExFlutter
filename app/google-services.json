@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531503952372",
+    "project_id": "flutterconnect-cf849",
+    "storage_bucket": "flutterconnect-cf849.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531503952372:android:171cb36f0e8116573a49a1",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531503952372-nj2k96d622fs40av67gn0tr6mc6isddc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcF6rEkeOxcj56ZEu2D9qzipVqIf1oVHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531503952372-nj2k96d622fs40av67gn0tr6mc6isddc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
